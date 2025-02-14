@@ -19,7 +19,7 @@
       <audioNameHash>null</audioNameHash>
       <layout>LAYOUT_BIKE_SPORT</layout>
       <coverBoundOffsets>BIKE_COVER_OFFSET_INFO</coverBoundOffsets>
-	  <POVTuningInfo>AKUMA_POV_TUNING</POVTuningInfo>
+      <POVTuningInfo>AKUMA_POV_TUNING</POVTuningInfo>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
       <scenarioLayout />
       <cameraName>FOLLOW_BIKE_CAMERA</cameraName>
@@ -28,16 +28,16 @@
       <povCameraName>BIKE_AKUMA_POV_CAMERA</povCameraName>
       <FirstPersonDriveByIKOffset x="0.000000" y="-0.060000" z="0.000000" />
       <FirstPersonDriveByUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000" />
-	  <FirstPersonProjectileDriveByIKOffset x="0.000000" y="0.000000" z="0.000000" />
-	  <FirstPersonProjectileDriveByPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
-	  <FirstPersonProjectileDriveByRearLeftIKOffset x="0.000000" y="0.000000" z="0.000000" />
-	  <FirstPersonProjectileDriveByRearRightIKOffset x="0.000000" y="0.000000" z="0.000000" />
-	  <FirstPersonDriveByLeftPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
-	  <FirstPersonDriveByRightPassengerIKOffset x="0.000000" y="-0.060000" z="-0.030000" />
-	  <FirstPersonDriveByRightRearPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
-	  <FirstPersonDriveByLeftPassengerUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000" />
-	  <FirstPersonDriveByRightPassengerUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000" />
-	  <FirstPersonMobilePhoneOffset x="0.155000" y="0.315000" z="0.520000" />
+      <FirstPersonProjectileDriveByIKOffset x="0.000000" y="0.000000" z="0.000000" />
+      <FirstPersonProjectileDriveByPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
+      <FirstPersonProjectileDriveByRearLeftIKOffset x="0.000000" y="0.000000" z="0.000000" />
+      <FirstPersonProjectileDriveByRearRightIKOffset x="0.000000" y="0.000000" z="0.000000" />
+      <FirstPersonDriveByLeftPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
+      <FirstPersonDriveByRightPassengerIKOffset x="0.000000" y="-0.060000" z="-0.030000" />
+      <FirstPersonDriveByRightRearPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
+      <FirstPersonDriveByLeftPassengerUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000" />
+      <FirstPersonDriveByRightPassengerUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000" />
+      <FirstPersonMobilePhoneOffset x="0.155000" y="0.315000" z="0.520000" />
       <FirstPersonPassengerMobilePhoneOffset x="0.136000" y="0.223000" z="0.425000" />
       <PovCameraOffset x="0.000000" y="0.000000" z="0.000000" />
       <PovCameraVerticalAdjustmentForRollCage value="0.000000" />
@@ -83,7 +83,8 @@
       <frequency value="20" />
       <swankness>SWANKNESS_1</swankness>
       <maxNum value="4" />
-      <flags>FLAG_NO_BOOT FLAG_IGNORE_ON_SIDE_CHECK FLAG_AVERAGE_CAR FLAG_HEADLIGHTS_USE_ACTUAL_BONE_POS</flags>
+      <flags>FLAG_NO_BOOT FLAG_IGNORE_ON_SIDE_CHECK FLAG_AVERAGE_CAR
+        FLAG_HEADLIGHTS_USE_ACTUAL_BONE_POS</flags>
       <type>VEHICLE_TYPE_BIKE</type>
       <plateType>VPT_BACK_PLATES</plateType>
       <dashboardType>VDT_SPORTBK</dashboardType>
@@ -109,12 +110,11 @@
       <buoyancySphereOffset x="0.000000" y="0.000000" z="0.000000" />
       <buoyancySphereSizeScale value="1.000000" />
       <pOverrideRagdollThreshold type="NULL" />
-	  <firstPersonDrivebyData>
+      <firstPersonDrivebyData>
         <Item>BIKE_AKUMA_FRONT</Item>
         <Item>BIKE_AKUMA_REAR</Item>
       </firstPersonDrivebyData>
     </Item>
-
 
 
   </InitDatas>

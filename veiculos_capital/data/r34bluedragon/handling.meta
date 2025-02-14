@@ -4,7 +4,7 @@
   <HandlingData>
     <Item type="CHandlingData">
       <handlingName>r34bluedragon</handlingName>
-      <fMass value="2700.0" />
+      <fMass value="2200.0" />
       <fInitialDragCoeff value="6.0" />
       <fPercentSubmerged value="85.0" />
       <vecCentreOfMassOffset x="0.0" y="0.0" z="0.0" />

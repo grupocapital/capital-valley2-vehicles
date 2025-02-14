@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CVehicleModelInfo__InitDataList>
-	<residentTxd>vehshare</residentTxd>
-	<residentAnims />
-	<InitDatas>
-	 <Item>
+  <residentTxd>vehshare</residentTxd>
+  <residentAnims />
+  <InitDatas>
+    <Item>
       <modelName>trail22pc</modelName>
       <txdName>trail22pc</txdName>
       <handlingId>trail22pc</handlingId>
@@ -26,16 +26,16 @@
       <povCameraName>DEFAULT_POV_CAMERA_LOOKAROUND</povCameraName>
       <FirstPersonDriveByIKOffset x="0.000000" y="-0.050000" z="-0.028000" />
       <FirstPersonDriveByUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000" />
-	  <FirstPersonProjectileDriveByIKOffset x="0.028000" y="-0.040000" z="0.075000" />
-	  <FirstPersonProjectileDriveByPassengerIKOffset x="0.020000" y="0.060000" z="-0.090000" />
-	  <FirstPersonProjectileDriveByRearLeftIKOffset x="0.000000" y="0.000000" z="-0.055000" />
-	  <FirstPersonProjectileDriveByRearRightIKOffset x="0.000000" y="0.000000" z="-0.055000" />
-	  <FirstPersonDriveByLeftPassengerIKOffset x="0.000000" y="0.000000" z="-0.040000" />
-	  <FirstPersonDriveByRightPassengerIKOffset x="-0.045000" y="-0.048000" z="-0.040000" />
-	  <FirstPersonDriveByRightRearPassengerIKOffset x="0.000000" y="0.000000" z="-0.040000" />
-	  <FirstPersonDriveByLeftPassengerUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000" />
-	  <FirstPersonDriveByRightPassengerUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000" />
-	  <FirstPersonMobilePhoneOffset x="0.143000" y="0.245000" z="0.521000" />
+      <FirstPersonProjectileDriveByIKOffset x="0.028000" y="-0.040000" z="0.075000" />
+      <FirstPersonProjectileDriveByPassengerIKOffset x="0.020000" y="0.060000" z="-0.090000" />
+      <FirstPersonProjectileDriveByRearLeftIKOffset x="0.000000" y="0.000000" z="-0.055000" />
+      <FirstPersonProjectileDriveByRearRightIKOffset x="0.000000" y="0.000000" z="-0.055000" />
+      <FirstPersonDriveByLeftPassengerIKOffset x="0.000000" y="0.000000" z="-0.040000" />
+      <FirstPersonDriveByRightPassengerIKOffset x="-0.045000" y="-0.048000" z="-0.040000" />
+      <FirstPersonDriveByRightRearPassengerIKOffset x="0.000000" y="0.000000" z="-0.040000" />
+      <FirstPersonDriveByLeftPassengerUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000" />
+      <FirstPersonDriveByRightPassengerUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000" />
+      <FirstPersonMobilePhoneOffset x="0.143000" y="0.245000" z="0.521000" />
       <FirstPersonPassengerMobilePhoneOffset x="0.136000" y="0.223000" z="0.435000" />
       <PovCameraOffset x="0.000000" y="-0.125000" z="0.640000" />
       <PovCameraVerticalAdjustmentForRollCage value="0.000000" />
@@ -81,10 +81,11 @@
       <frequency value="100" />
       <swankness>SWANKNESS_1</swankness>
       <maxNum value="999" />
-      <flags>FLAG_HAS_LIVERY FLAG_LAW_ENFORCEMENT FLAG_DONT_SPAWN_IN_CARGEN FLAG_IS_OFFROAD_VEHICLE FLAG_HAS_INTERIOR_EXTRAS FLAG_REPORT_CRIME_IF_STANDING_ON</flags>
+      <flags>FLAG_HAS_LIVERY FLAG_LAW_ENFORCEMENT FLAG_DONT_SPAWN_IN_CARGEN FLAG_IS_OFFROAD_VEHICLE
+        FLAG_HAS_INTERIOR_EXTRAS FLAG_REPORT_CRIME_IF_STANDING_ON</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
-	  <dashboardType>VDT_CAVALCADE</dashboardType>
+      <dashboardType>VDT_CAVALCADE</dashboardType>
       <vehicleClass>VC_EMERGENCY</vehicleClass>
       <wheelType>VWT_SUV</wheelType>
       <trailers />
@@ -126,8 +127,8 @@
         <Item>VAN_BODHI_REAR_RIGHT</Item>
       </firstPersonDrivebyData>
     </Item>
-	</InitDatas>
-	<txdRelationships>
-   
-	</txdRelationships>
+  </InitDatas>
+  <txdRelationships>
+
+  </txdRelationships>
 </CVehicleModelInfo__InitDataList>
